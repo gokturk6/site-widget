@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tekno bağımlılık</title>
+    <title>Kullanışlı bilgiler!</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <h1>Teknoloji bağımlısı olduğunuzu mu düşünüyorsunuz.O zaman doğru sitedesiniz! </h1>
+    <h2>En yaygın teknoloji bağımlılıkları</h2>
+    <p>-Sosyal medya ve mesajlaşma: İnsanlar sosyal medyada ve mesajlaşma uygulamalarında çok fazla zaman harcayarak gerçek dünyada geçirdikleri zamanı azaltabilirler. Dahası, bu durum haber ve mesaj güncellemelerine bağımlılığa yol açar.</p>
+    <p>-Akıllı telefonlar ve tabletler: Akıllı telefonlar ve tabletler insanlar için dünyayla iletişim kurmanın temel yolu haline gelebilir ve insanlar bildirimleri sürekli kontrol etme, retweet yapma ve sosyal medya ve mesajlaşma uygulamalarında gezinme konusunda bağımlı hale gelebilirler.</p>
+    <p>-Oyunlar ve çevrimiçi eğlence: Oyunlar ve çevrimiçi eğlence bağımlılık yapabilir, bu da insanların gerçek hayat yerine sanal dünyada çok fazla zaman harcamalarına neden olabilir.</p>
+    <p>-İnternet alışverişi ve çevrimiçi alışveriş: İnsanlar duygusal ihtiyaçlarını karşılamak için çevrimiçi alışverişe bağımlı hale gelebilirler.</p>
+    <p>-Online video ve yayın hizmetleri:İnsanlar video barındırma sitelerinde ve yayın hizmetlerinde çok fazla zaman harcayabilirler, bu da zaman kaybına ve gerçek dünyaya olan ilginin azalmasına neden olabilir.</p>
+    <p>-Bilgisayar programları ve uygulamalar: İnsanlar, iş veya eğitimlerinden dikkatlerini dağıtabilecek belirli programlara ve uygulamalara bağımlı hale gelebilirler.</p>
+    <p>-Yapay Zeka Teknolojileri: people can become dependent on the use of artificial intelligence technologies such as voice assistants, which can lead to the degradation of communication and decision-making skills.</p>
+    <p>-Akıllı ev cihazları: İnsanlar, iletişim ve karar verme becerilerinin kötüleşmesine yol açabilecek sesli asistanlar gibi yapay zeka teknolojilerinin kullanımına bağımlı hale gelebilirler.</p>
+    <p>-Akıllı ev cihazları:Kripto paralar ve blok zincirleri: İnsanlar, finansal istikrarlarını riske atan kripto para biriktirmeye bağımlı hale gelebilirler.
+        Bunun yanı sıra, bazı insanlar blok zinciri teknolojisiyle aşırı derecede büyülenebilirler. Örneğin, çok fazla zamanlarını ticaret platformlarında ve tartışma gruplarında geçirebilirler veya kripto paralara çok fazla para yatırabilirler, bu da maddi sorunlara ve gerçek dünyada ilgi kaybına yol açabilir. Bu sorunlardan kaçınmak için, kripto paralara ve blok zinciri teknolojisine olan bağımlılığınızın farkında olmak ve onu ölçülü ve akıllıca kullanmak önemlidir.</p>
+    <p>-Sanal ve artırılmış gerçeklik teknolojileri: İnsanlar, sanal ve artırılmış gerçeklik teknolojilerinin kullanımına bağımlı hale gelebilir, bu da gerçek dünyaya olan ilginin azalmasına ve iletişim becerilerinin kötüleşmesine yol açabilir.</p>
+    
+    <h3>Madem buraya kadar okudun(okuduğun için teşekkürler buarada)neden biraz dışarı çıkmıyorsun senin için buraya hava tahmini bırakıyorum bırakıyorum:)</h3>
+    <div id="ww_ad43c897b99c3" v='1.3' loc='id' a='{"t":"horizontal","lang":"tr","sl_lpl":1,"ids":[],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"image","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722"}'>Daha fazla hava durumu tahmini: <a href="https://oneweather.org/tr/istanbul/15_days/" id="ww_ad43c897b99c3_u" target="_blank">İstanbulda 15 günlük hava durumu</a></div><script async src="https://app2.weatherwidget.org/js/?id=ww_ad43c897b99c3"></script>
+             
+     <img src="https://miro.medium.com/v2/resize:fit:1150/1*DpIKskvNb-t24-W_gJlRwQ.jpeg" alt="Image1" width="600"
+     height="200">
+     <img src="https://ortaokul.tbm.org.tr/Content/Uploads/Sayfalar/ortaokul-teknoloji-bagimliligi.png?x_9636" alt="Image1" width="600"
+     height="200">
+</body>
+</html>
